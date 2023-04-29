@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Muhammad Hassaan",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Passionate Student of Computer Engineering",
+  email: "muhammadhassaan891@gmail.com",
+  gitHub: "hasn20",
+  instagram: "",
+  linkedIn: "muhammad-hassaan-552671235/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
